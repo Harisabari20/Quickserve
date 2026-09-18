@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+*.iml
+.env
+.env.*
+!.env.example
+.gradle/
+build/
+.bundle/
+Pods/
